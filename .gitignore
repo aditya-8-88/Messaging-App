@@ -1,0 +1,5 @@
+Backend/env/
+Backend/Backend/__pycache__/
+Backend/account/__pycache__/
+Backend/account/migrations/
+Backend/db.sqlite3
