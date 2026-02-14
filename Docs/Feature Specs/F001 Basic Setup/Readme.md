@@ -44,13 +44,13 @@ By completing this feature, the project will have a production-ready foundation 
 - Test UI with mock data (hardcoded messages)
 
 ### Deployment Setup
-Install Docker
-├─ Create Dockerfiles
-├─ Run with docker-compose up
-└─ Build all features locally
+- Install Docker 
+  - Create Dockerfiles 
+  - Run with docker-compose up 
+  - Build all features locally 
 
-Deploy to Production (when ready)
-├─ Setup Supabase (database)
-├─ Deploy backend to Render
-├─ Deploy frontend to Vercel
-└─ Optional: Add Redis, R2, CI/CD
+- Deploy to Production (when ready) 
+  - Setup Supabase (database) 
+  - Deploy backend to Render 
+  - Deploy frontend to Vercel 
+  - Optional: Add Redis, R2, CI/CD 
