@@ -1,7 +1,7 @@
 # Messaging App
 
 ## Description
-I am trying to create a messaging app which supports most of the features that current messaging app have. I am doing this just to learn new tech by building most of the things from scratch. 
+I am trying to create a messaging app that supports most of the features that current messaging apps have. I am doing this just to learn new tech by building most of the things from scratch. 
 
 This repo is open for any sort of Contributions.
 
