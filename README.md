@@ -1,20 +1,13 @@
-# Real-Time Chat Application
+# Messaging App
 
-## Project architecture
+## Description
+I am trying to create a messaging app which supports most of the features that current messaging app have. I am doing this just to learn new tech by building most of the things from scratch. 
 
-## Diagrams
+This repo is open for any sort of Contributions.
 
----
-## Setup
+## Techstack:
+I am not sure of everything from the start. Thus, starting with below for now:
 
-**Backend**
-- Clone the repo and run below commands
-```bash
-cd Backend
-python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
-pip install -r requirements.txt
-python manage.py makemigrations     
-python manage.py migrate
-python manage.py runserver
-```
+- Initially planning a Web app.
+- Frontend - React Typescript Tailwind 
+- Backend - Go
