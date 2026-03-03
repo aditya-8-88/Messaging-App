@@ -1,7 +1,8 @@
-import './App.css'
+import './css/App.css'
+import ChatWindow from './components/ChatWindow.tsx'
 
 function App() {
-  return (<></>)
+  return <ChatWindow/>
 }
 
 export default App
